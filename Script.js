@@ -2,8 +2,8 @@
 // @name         Calcular Dinero hecho en Ventas (ML)
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @updateURL    https://github.com/randomperson190/Calcular-Dinero-hecho-en-Ventas-ML/edit/master/Script.js
-// @downloadURL  https://github.com/randomperson190/Calcular-Dinero-hecho-en-Ventas-ML/edit/master/Script.js
+// @updateURL    https://github.com/randomperson190/CalcularDineroVentasML/edit/master/Script.js
+// @downloadURL  https://github.com/randomperson190/CalcularDineroVentasML/edit/master/Script.js
 // @description  try to take over the world!
 // @author       You
 // @match        https://articulo.mercadolibre.com.ar/MLA-*
